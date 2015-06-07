@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DCCD3E9A-B840-4BBC-8F3F-67C76FBACC44</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwipeableTableViewCell</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>35B8CA72D3CC25A94FF22707B9B2B55B7B881EBF</key>
+		<string>https://github.com/MaitrayeeGhosh/SwipeableTableViewCell-like-iOS-mail-app.git</string>
+		<key>AAA2D547B455846B8A6503AD426F06C1D1E3A291</key>
+		<string>https://github.com/MaitrayeeGhosh/SwipeableTableViewCell.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwipeableTableViewCell.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>35B8CA72D3CC25A94FF22707B9B2B55B7B881EBF</key>
+		<string>../..</string>
+		<key>AAA2D547B455846B8A6503AD426F06C1D1E3A291</key>
+		<string>../..SwipeableTableViewCell/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MaitrayeeGhosh/SwipeableTableViewCell-like-iOS-mail-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>35B8CA72D3CC25A94FF22707B9B2B55B7B881EBF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>35B8CA72D3CC25A94FF22707B9B2B55B7B881EBF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwipeableTableViewCell</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AAA2D547B455846B8A6503AD426F06C1D1E3A291</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwipeableTableViewCell</string>
+		</dict>
+	</array>
+</dict>
+</plist>
